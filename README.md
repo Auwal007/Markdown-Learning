@@ -53,3 +53,9 @@ Ordederd LIst: Orderd list can be created using numbers.
 ## Image
 
 ![My image](https://ibb.co/ph0wk8V)
+
+## Code and syntax
+
+'''Python
+print("Hello world")
+'''
