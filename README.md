@@ -52,4 +52,4 @@ Ordederd LIst: Orderd list can be created using numbers.
 
 ## Image
 
-![My image]((https://ibb.co/ph0wk8V))
+![My image](https://ibb.co/ph0wk8V)
