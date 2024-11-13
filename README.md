@@ -14,4 +14,21 @@ this text is not bolded
 
 # Italics
 _This is italize_
+
 This is not italize
+
+# CREATING A LIST
+
+Unorderd list: you can create an unorderd list item by preceeding the list item with either a -, + or *.
+
++ Number 1
++ Number 2
++ Number 3
+
+- Number 1
+- Number 2
+- Number 3
+
+* Number 1
+* Number 2
+* Number 3
