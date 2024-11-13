@@ -11,3 +11,6 @@ This repo is used to show how to use markdown.
 **This text is bolded**
 
 this text is not bolded
+
+# Italics
+_This is italize_
