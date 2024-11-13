@@ -59,3 +59,9 @@ Ordederd LIst: Orderd list can be created using numbers.
 ```python
 print("Hello world")
 ```
+# TABLE
+
+| Name  | Age | Gender|
+|------ |------|-------|
+| Auwal | 29   | Male  |
+| Anas   |33    | MAle  |
