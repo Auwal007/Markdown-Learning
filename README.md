@@ -7,5 +7,7 @@ This repo is used to show how to use markdown.
 #### This is four level heading
 
 #BOLD
+
 **This text is bolded **
+
 this text is not bolded
