@@ -22,10 +22,14 @@ This is not italize
 Unorderd list: you can create an unorderd list item by preceeding the list item with either a -, + or *.
 
 + Number 1
+   + Nested 1
+   + Nested 2
 + Number 2
 + Number 3
 
 - Number 1
+   - Nested 1
+   - Nested 2
 - Number 2
 - Number 3
 
