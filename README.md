@@ -56,6 +56,6 @@ Ordederd LIst: Orderd list can be created using numbers.
 
 ## Code and syntax
 
-'''Python
+'''python
 print("Hello world")
 '''
