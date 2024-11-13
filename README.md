@@ -36,3 +36,10 @@ Unorderd list: you can create an unorderd list item by preceeding the list item 
 * Number 1
 * Number 2
 * Number 3
+
+Ordederd LIst: Orderd list can be created using numbers.
+
+1. Item one
+2. Item two
+3. Item three
+4. Item four
