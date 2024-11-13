@@ -65,3 +65,10 @@ print("Hello world")
 |------ |------|-------|
 | Auwal | 29   | Male  |
 | Anas   |33    | MAle  |
+
+# Task list
+
+- [x] Complete Markdown lecture
+- [X] Prepare assignments
+- [ ] Review student submissions
+
