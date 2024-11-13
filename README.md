@@ -72,3 +72,11 @@ print("Hello world")
 - [X] Prepare assignments
 - [ ] Review student submissions
 
+# Horizontal Rule
+
+You can create a horizontal rule with three or more hyphens, asterisks, or underscores.
+
+---
+
+*****
+___
